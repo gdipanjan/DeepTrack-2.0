@@ -21,3 +21,5 @@ Optional dependencies:
    pillow
    
    opencv-python
+
+

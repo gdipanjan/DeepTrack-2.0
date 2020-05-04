@@ -1,3 +1,6 @@
 **/.ipynb_checkpoints
 **/__pycache__
 deeptrack-app/*
+build/*
+dist/*
+deeptrack.egg-info/*
